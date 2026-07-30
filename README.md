@@ -140,9 +140,9 @@ Je cherche une **alternance en cybersécurité à partir de septembre 2027** pou
 
 <div align="center">
 
-<img src="https://github.com/chocapic78560/chocapic78560/blob/main/Certification.png" width="50%" alt="Certificat Hack Prep - 3ème place"/>
+<img src="https://github.com/chocapic78560/chocapic78560/blob/main/Certification.png" width="45%" alt="Certificat Hack Prep - 3ème place"/>
 &nbsp;&nbsp;
-<img src="https://github.com/chocapic78560/chocapic78560/blob/main/Certificate-MatteoCapybara.png" width="50%" alt="Certificat HTB Cyber Apocalypse CTF 2026"/>
+<img src="https://github.com/chocapic78560/chocapic78560/blob/main/Certificate-MatteoCapybara.png" width="45%" alt="Certificat HTB Cyber Apocalypse CTF 2026"/>
 
 </div>
 
